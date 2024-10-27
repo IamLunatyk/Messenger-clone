@@ -21,3 +21,4 @@ arduino
 Skopiuj kod
 npm run dev
 Enjoy building and exploring your own messaging platform!
+try it: https://messenger-clone-next-js-drab.vercel.app/
